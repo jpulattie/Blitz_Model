@@ -18,8 +18,7 @@ predict when a team may blitz. </br>
 The number of data points is extremely limited, but I wanted to explore real life uses of Python. I took breakdown data from our 
 team's current opponent video and explored it in this notebook. The feature that I enjoyed learning about the most was using the 
 heat map to find trends.  As a coach with a decade worth of experience, the insights that stand out are the things that I don't
-notice in watching the film.  Using the heat maps in this project, I noticed there was a higher correlation of run blitzes.  
-This was not something that I had noticed from breaking down opponent film, but I did glean that insight from the data. </br>
+notice in watching the film.  Using the heat maps in this project, I noticed there was a higher correlation of run blitzes.  This was not something that I had noticed from breaking down opponent film, but I did glean that insight from the data. </br>
   </br>
 
 ### Built With
